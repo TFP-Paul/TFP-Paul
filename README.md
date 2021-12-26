@@ -34,7 +34,6 @@
     &nbsp;
     <img src="https://badges.pufler.dev/commits/monthly/TFP-Paul" alt="commits" />
     &nbsp;
-    <img src="https://visitor-badge.glitch.me/badge?page_id=TFP-Paul" alt="Visiteur"/>
 </div>
 
 <br/>
